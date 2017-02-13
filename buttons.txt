@@ -6,7 +6,7 @@ Most efficient button assignment for Roccat Tyon
 3	Scroll
 4	CMD + Z (Undo)
 5	Tab
-6	Clutch
+6	Easy-Shift
 7	Copy
 8	Paste
 9	Backspace
@@ -24,8 +24,8 @@ Most efficient button assignment for Roccat Tyon
 18	ALT + CMD + RIGHT
 19	Play/Pause
 20	-
-21	-
-22	-
+21	ALT + CMD + U (unstash)
+22	ALT + CMD + S (stash)
 23	-
 24	-
 25	CMD + S (Save)
