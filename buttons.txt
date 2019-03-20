@@ -7,32 +7,34 @@ Most efficient button assignment for Roccat Tyon
 4	CMD + Z (Undo)
 5	Tab
 6	Easy-Shift
-7	Copy
-8	Paste
+7	CMD + C (Copy)
+8	CMD + V (Paste)
 9	Backspace
 10	CMD + Tab
 11	Enter
 12	Ctrl + Up (mission control)
-13	CMD + ] (ALT + CMD + LEFT)
-14	CMD + [ (ALT + CMD + RIGHT)
+13	CMD + ] (next)
+14	CMD + [ (previous)
 15	Scroll Up
 16	Scroll Down
 
 --- shift ---
 
-17	ALT + CMD + LEFT
-18	ALT + CMD + RIGHT
+17	ALT + CMD + LEFT (back)
+18	ALT + CMD + RIGHT (forward)
 19	Play/Pause
-20	-
-21	ALT + CMD + U (unstash)
-22	ALT + CMD + S (stash)
-23	-
-24	-
+20	DPI Down
+21	DPI UP
+22	Disabled
+23	ALT + CMD + S (stash)
+24	ALT + CMD + U (unstash)
 25	CMD + S (Save)
 26	F7 (Step Into)
 27	CMD + R (Resume/Reload)
 28	CMD + ENTER (Step Over/Send)
-29	ALT + CMD + H (Stash file)
+29	ALT + CMD + H (Stash file) *
 30	CMD + L (Code Format)
 31	Volume Up
 32	Volume Down
+
+* can be re-assigned
